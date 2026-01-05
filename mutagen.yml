@@ -1,0 +1,10 @@
+sync:
+  ui-sync:
+    alpha: "./ui"
+    beta: "docker://expense-frontend/app"
+    mode: "two-way-resolved"
+    ignore:
+      vcs: true
+      paths:
+        - "node_modules"
+        - "dist"

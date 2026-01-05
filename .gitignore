@@ -1,0 +1,29 @@
+# OS files
+.DS_Store
+
+# IDEs
+.idea/
+.vscode/
+*.iml
+
+# Backend (admin/)
+admin/target/
+admin/*.jar
+admin/.mvn/wrapper/maven-wrapper.jar
+
+# Frontend (ui/)
+ui/node_modules/
+ui/dist/
+ui/coverage/
+ui/*.tsbuildinfo
+
+# Environment files
+.env
+.env.*
+*.local
+
+# Logs
+*.log
+
+# Docker
+.docker/
