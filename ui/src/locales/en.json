@@ -1,0 +1,24 @@
+{
+  "common": {
+    "save": "Save",
+    "loading": "Loading..."
+  },
+  "todos": {
+    "title": "Todos",
+    "new": "New todo",
+    "todoForm": {
+      "title": "Title",
+      "completed": "Completed",
+      "createSuccess": "Todo created successfully",
+      "updateSuccess": "Todo updated successfully"
+    },
+    "edit": "Edit todo",
+    "table": {
+      "id": "ID",
+      "title": "Title",
+      "userId": "User ID",
+      "completed": "Completed",
+      "notCompleted": "Not completed"
+    }
+  }
+}
